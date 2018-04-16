@@ -18,3 +18,11 @@
 @media (min-width: 1199px) {
   .port-item {
     padding: 3.2em !important; } }
+    .alert{
+      text-align: center;
+      padding:10px;
+      background:#79c879;
+      color:#fff;
+      margin-bottom:10px;
+      display:none;
+    }  
